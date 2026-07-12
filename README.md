@@ -33,6 +33,7 @@ To build strong DSA fundamentals for:
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/samit-gupta/dsa-java-prep/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/samit-gupta/dsa-java-prep/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/samit-gupta/dsa-java-prep/tree/master/0169-majority-element) |
 ## Divide and Conquer
@@ -50,9 +51,11 @@ To build strong DSA fundamentals for:
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/samit-gupta/dsa-java-prep/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/samit-gupta/dsa-java-prep/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/samit-gupta/dsa-java-prep/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/samit-gupta/dsa-java-prep/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
