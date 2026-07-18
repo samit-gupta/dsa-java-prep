@@ -33,6 +33,7 @@ To build strong DSA fundamentals for:
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/samit-gupta/dsa-java-prep/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0141-linked-list-cycle](https://github.com/samit-gupta/dsa-java-prep/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/samit-gupta/dsa-java-prep/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/samit-gupta/dsa-java-prep/tree/master/0169-majority-element) |
@@ -58,4 +59,12 @@ To build strong DSA fundamentals for:
 | ------- |
 | [0141-linked-list-cycle](https://github.com/samit-gupta/dsa-java-prep/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/samit-gupta/dsa-java-prep/tree/master/0160-intersection-of-two-linked-lists) |
+## String
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/samit-gupta/dsa-java-prep/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/samit-gupta/dsa-java-prep/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
