@@ -37,6 +37,7 @@ To build strong DSA fundamentals for:
 | [0141-linked-list-cycle](https://github.com/samit-gupta/dsa-java-prep/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/samit-gupta/dsa-java-prep/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/samit-gupta/dsa-java-prep/tree/master/0169-majority-element) |
+| [0424-longest-repeating-character-replacement](https://github.com/samit-gupta/dsa-java-prep/tree/master/0424-longest-repeating-character-replacement) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -63,8 +64,10 @@ To build strong DSA fundamentals for:
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/samit-gupta/dsa-java-prep/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0424-longest-repeating-character-replacement](https://github.com/samit-gupta/dsa-java-prep/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/samit-gupta/dsa-java-prep/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0424-longest-repeating-character-replacement](https://github.com/samit-gupta/dsa-java-prep/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
