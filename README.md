@@ -63,6 +63,7 @@ To build strong DSA fundamentals for:
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/samit-gupta/dsa-java-prep/tree/master/0010-regular-expression-matching) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/samit-gupta/dsa-java-prep/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0424-longest-repeating-character-replacement](https://github.com/samit-gupta/dsa-java-prep/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
@@ -70,4 +71,12 @@ To build strong DSA fundamentals for:
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/samit-gupta/dsa-java-prep/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0424-longest-repeating-character-replacement](https://github.com/samit-gupta/dsa-java-prep/tree/master/0424-longest-repeating-character-replacement) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/samit-gupta/dsa-java-prep/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/samit-gupta/dsa-java-prep/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
