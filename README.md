@@ -30,6 +30,7 @@ To build strong DSA fundamentals for:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/samit-gupta/dsa-java-prep/tree/master/0169-majority-element) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/samit-gupta/dsa-java-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ To build strong DSA fundamentals for:
 | [0160-intersection-of-two-linked-lists](https://github.com/samit-gupta/dsa-java-prep/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/samit-gupta/dsa-java-prep/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/samit-gupta/dsa-java-prep/tree/master/0424-longest-repeating-character-replacement) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/samit-gupta/dsa-java-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
