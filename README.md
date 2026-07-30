@@ -30,6 +30,7 @@ To build strong DSA fundamentals for:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/samit-gupta/dsa-java-prep/tree/master/0169-majority-element) |
+| [0239-sliding-window-maximum](https://github.com/samit-gupta/dsa-java-prep/tree/master/0239-sliding-window-maximum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/samit-gupta/dsa-java-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@ To build strong DSA fundamentals for:
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/samit-gupta/dsa-java-prep/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0239-sliding-window-maximum](https://github.com/samit-gupta/dsa-java-prep/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/samit-gupta/dsa-java-prep/tree/master/0424-longest-repeating-character-replacement) |
 ## Dynamic Programming
 |  |
@@ -92,4 +94,16 @@ To build strong DSA fundamentals for:
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/samit-gupta/dsa-java-prep/tree/master/0234-palindrome-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/samit-gupta/dsa-java-prep/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/samit-gupta/dsa-java-prep/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/samit-gupta/dsa-java-prep/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
