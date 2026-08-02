@@ -29,6 +29,7 @@ To build strong DSA fundamentals for:
 ## Array
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/samit-gupta/dsa-java-prep/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/samit-gupta/dsa-java-prep/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/samit-gupta/dsa-java-prep/tree/master/0239-sliding-window-maximum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/samit-gupta/dsa-java-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -84,6 +85,7 @@ To build strong DSA fundamentals for:
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/samit-gupta/dsa-java-prep/tree/master/0010-regular-expression-matching) |
+| [0152-maximum-product-subarray](https://github.com/samit-gupta/dsa-java-prep/tree/master/0152-maximum-product-subarray) |
 ## Recursion
 |  |
 | ------- |
