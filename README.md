@@ -42,6 +42,7 @@ To build strong DSA fundamentals for:
 | [0169-majority-element](https://github.com/samit-gupta/dsa-java-prep/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/samit-gupta/dsa-java-prep/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/samit-gupta/dsa-java-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1189-maximum-number-of-balloons](https://github.com/samit-gupta/dsa-java-prep/tree/master/1189-maximum-number-of-balloons) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -54,6 +55,7 @@ To build strong DSA fundamentals for:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/samit-gupta/dsa-java-prep/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/samit-gupta/dsa-java-prep/tree/master/1189-maximum-number-of-balloons) |
 ## Linked List
 |  |
 | ------- |
@@ -75,6 +77,7 @@ To build strong DSA fundamentals for:
 | [0010-regular-expression-matching](https://github.com/samit-gupta/dsa-java-prep/tree/master/0010-regular-expression-matching) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/samit-gupta/dsa-java-prep/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0424-longest-repeating-character-replacement](https://github.com/samit-gupta/dsa-java-prep/tree/master/0424-longest-repeating-character-replacement) |
+| [1189-maximum-number-of-balloons](https://github.com/samit-gupta/dsa-java-prep/tree/master/1189-maximum-number-of-balloons) |
 ## Sliding Window
 |  |
 | ------- |
